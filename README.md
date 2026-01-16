@@ -8,7 +8,15 @@
 
 **Karma Agent** is an advanced cryptocurrency market analysis and social influence platform that combines institutional-grade quantitative analysis with sophisticated AI-driven social media engagement. By leveraging cutting-edge machine learning models, real-time market data processing, and strategic social media presence, Karma Agent can analyze market trends, generate predictive insights, and influence market sentiment through intelligent social engagement.
 
-![Karma Agent Dashboard](https://www.tokenetics.space/)
+<div align="center">
+
+### 🌐 [**Try Karma Agent Live →**](https://www.tokenetics.space/agent)
+
+*Experience the power of AI-driven crypto analysis*
+
+---
+
+</div>
 
 ## ✨ Core Capabilities
 
